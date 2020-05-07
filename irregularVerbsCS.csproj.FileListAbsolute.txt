@@ -1,0 +1,12 @@
+C:\Users\vladi\source\repos\irregularVerbsCS\bin\Debug\irregularVerbsCS.exe.config
+C:\Users\vladi\source\repos\irregularVerbsCS\bin\Debug\irregularVerbsCS.exe
+C:\Users\vladi\source\repos\irregularVerbsCS\bin\Debug\irregularVerbsCS.pdb
+C:\Users\vladi\source\repos\irregularVerbsCS\obj\Debug\irregularVerbsCS.csprojAssemblyReference.cache
+C:\Users\vladi\source\repos\irregularVerbsCS\obj\Debug\irregularVerbsCS.Properties.Resources.resources
+C:\Users\vladi\source\repos\irregularVerbsCS\obj\Debug\irregularVerbsCS.csproj.GenerateResource.cache
+C:\Users\vladi\source\repos\irregularVerbsCS\obj\Debug\irregularVerbsCS.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\irregularVerbsCS\obj\Debug\irregularVerbsCS.exe
+C:\Users\vladi\source\repos\irregularVerbsCS\obj\Debug\irregularVerbsCS.pdb
+C:\Users\vladi\source\repos\irregularVerbsCS\obj\Debug\irregularVerbsCS.Form2.resources
+C:\Users\vladi\source\repos\irregularVerbsCS\obj\Debug\irregularVerbsCS.form3.resources
+C:\Users\vladi\source\repos\irregularVerbsCS\obj\Debug\irregularVerbsCS.form1.resources
